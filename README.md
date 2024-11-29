@@ -5,7 +5,7 @@ I used the background of the Arc Browser logo and made versions of all the apps 
 
 Happy customization!
 
-If you want to know how to use the System Icons you can check out [this reddit thread](https://www.reddit.com/r/MacOS/comments/1fxwjqm/comment/lqth87n/?context=3) :)
+If you want to know how to use the System Icons you can check out [this reddit thread](https://www.reddit.com/r/MacOS/comments/1fxwjqm/howto_change_macos_system_icons_works_on_sequoia/) :)
 ## Feedback
 
 If you have a suggestion, request, or find a problem, feel free to reach out or make an issue if that's how github works. But keep in mind, I know they're not pixel perfect. Just don't look at them that close hahaha...
